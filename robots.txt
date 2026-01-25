@@ -1,2 +1,6 @@
 User-agent: *
-Disallow: /cgi-bin
+Allow: /
+
+Disallow: /cgi-bin/
+
+Sitemap: https://dharacs23181.github.io/sitemap.xml
